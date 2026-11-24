@@ -18,5 +18,6 @@ A lightweight, standalone Python GUI tool for blinding experimental files (e.g.,
 ## Installation
 1. Clone this repository or download `file_blinder.py` directly:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/file-blinder.git
-   cd file-blinder
+   git clone https://github.com/alpdemirhan/file-blinder.git
+cd file-blinder
+
